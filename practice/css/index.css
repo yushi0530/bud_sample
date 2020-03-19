@@ -24,6 +24,7 @@ header {
 .Site-ttl {
     font-size: 21px;
     font-weight: bold;
+    color: red;
 }
 
 .Contents {
